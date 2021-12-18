@@ -31,3 +31,4 @@
 
 shirt talk: 
 1. formations - using split or staggered formation to hit more targets
+2. Per cb - extra vill in a dark age, or 21s faster fc
