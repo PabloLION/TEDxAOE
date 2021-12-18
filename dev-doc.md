@@ -28,3 +28,6 @@
 - genitour/imp scrim civ specific comparison (ie. az, tur, mon..)
 - mon CA/HCA v M/eM
 - cavalier v pala upgrade,..
+
+shirt talk: 
+1. formations - using split or staggered formation to hit more targets
